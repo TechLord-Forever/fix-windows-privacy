@@ -36,7 +36,7 @@ The program icon was originally created by http://www.danilodemarco.com/ and mod
 
 ### License
 
-Fix Windows Privacy is free and open source software. The software is published under the [BSD 2-Clause Licensxe](https://opensource.org/licenses/BSD-2-Clause).
+Fix Windows Privacy is free and open source software. The software is published under the [BSD 2-Clause License](https://opensource.org/licenses/BSD-2-Clause).
 
 ### Download
 
